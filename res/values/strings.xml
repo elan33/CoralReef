@@ -212,4 +212,8 @@
     <string name="tuner_show_info_header_title">Information header</string>
     <string name="tuner_show_info_header_category">Enable to hide</string>
 
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Volume rocker wake</string>
+    <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
+
 </resources>
